@@ -20,7 +20,7 @@ const DEFAULT_HERO = {
   ],
   primaryCTA: 'Demander un devis',
   secondaryCTA: 'Voir nos réalisations',
-  primaryCTAHref: '/pricing',
+  primaryCTAHref: 'https://static-site-server.rachid-regti.workers.dev/sites/68f6d4a817556e23596dd124/pricing',
   secondaryCTAHref: '#demo',
   imageUrl:
     'https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?q=80&w=1920&auto=format&fit=crop',
